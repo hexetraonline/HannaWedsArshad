@@ -1,0 +1,24 @@
+{
+  "name": "hanna-weds-arshad",
+  "version": "1.0.0",
+  "description": "A luxury wedding invitation website for Hanna and Arshad",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hexetraonline/HannaWedsArshad.git"
+  },
+  "keywords": [
+    "wedding",
+    "invitation",
+    "vercel-analytics"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@vercel/analytics": "^1.4.1"
+  }
+}
