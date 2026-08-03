@@ -1,3 +1,7 @@
+// Initialize Vercel Web Analytics
+import { inject } from '@vercel/analytics';
+inject();
+
 const gate = document.getElementById("gate");
 const invitation = document.getElementById("invitation");
 const openButton = document.getElementById("openInvitation");
