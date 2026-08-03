@@ -1,0 +1,29 @@
+{
+  "name": "hanna-weds-arshad",
+  "version": "1.0.0",
+  "description": "A luxury wedding invitation for Hanna and Arshad",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hexetraonline/HannaWedsArshad.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hexetraonline/HannaWedsArshad/issues"
+  },
+  "homepage": "https://github.com/hexetraonline/HannaWedsArshad#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  },
+  "devDependencies": {
+    "vite": "^8.2.0"
+  }
+}
